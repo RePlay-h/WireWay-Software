@@ -26,4 +26,4 @@ __I want to note that the work of the WireWay & WireWayContact programs is impos
   
 
 + ### __Additional Information__
-  + Description of package functions can be found [___here___]()
+  + Description of package functions can be found [___here___](https://github.com/RePlay-h/WireWay-packets)
