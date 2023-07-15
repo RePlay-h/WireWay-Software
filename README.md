@@ -4,7 +4,7 @@
 
 This is a set of three programs for remote connection to computers. Users can either connect to and manage other computers or provide access to their own.
 
-## __Reason for creating the project__
+## __Purposes__
 ---
 By writing these programs:
 
